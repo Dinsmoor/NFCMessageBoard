@@ -20,8 +20,7 @@
     <string name="menu_readme">readme</string>
     <string name="enable_timestamp">Enable Timestamp</string>
     <string name="about_app">"This is an app to allow for offline messaging via a single writable NFC tag. Written By Brian Khuu . Licenced as GNU General Public License v3.0+ . https://github.com/mofosyne/NFCMessageBoard "</string>
-    <string name="new_tag_write">Enable New Tag Creation Mode</string>
-    <string name="cancel_write_new_tag">Disarm New Tag Creation Mode</string>
+    <string name="chk_new_tag_write">New Tag Creation Mode</string>
     <string name="title_activity_read_me">ReadMe</string>
 
 
